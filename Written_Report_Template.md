@@ -32,6 +32,12 @@ One conclusion that can be drawn from this analysis is that a large number of su
 
 - What can you conclude about the Outcomes based on Goals?
 
+The results of this analysis would indicate that typically the projects with a lower goal have a higher rate of success than those with larger goals. One exception to this is the projects within the range of $35,000 to $45,000. Projects in that span had a markedly higher rate of success than almost any other projects except for those that had a goal of less than $5,000. Based on this data it could be recommended that a play Kickstarter not have an initial goal of greater than $5,000 unless such a budget is absolutely necessary or there is enough verifiable interest that a larger goal can reasonably be achieved. 
+
 - What are some limitations of this dataset?
 
+The initial dataset has several limitations. One limitation is that the data has no metric for representing how much initial interest there could have been in a project prior to its launch, though such a metric would be difficult to implement let alone measure. The data was successfully filtered down to Plays and Theater, but there is no classification for genre present. It is entirely possible that comedic plays have a higher rate of success than dramas, but with this dataset there is no way to discern this. It would be interesting in future research to look into projects that raised a significant amount more than their initial goal and see where those projects fit into the charts produced by this analysis. 
+
 - What are some other possible tables and/or graphs that we could create?
+
+A box and whisker plot for the fundraising goals of successful projects could be useful in determining the optimal goal for a new project as well as the upper and lower limits of what the project should strive to raise. The same could also be said for projects that did not reach their funding goals being utilized so that it can be inferred what fundraising goals should be avoided. 
