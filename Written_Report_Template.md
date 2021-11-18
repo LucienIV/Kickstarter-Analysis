@@ -8,6 +8,8 @@ The purpose of this analysis is to analyze the outcomes of Kickstarter campaigns
 
 ### Analysis of Outcomes Based on Launch Date
 
+For this analysis a pivot table was created based on the original dataset. Filters were applied to limit the data for only Kickstarter projects that were in the category of Theater. Projects were sorted by month based on their Kickstarter launch date and then further sorted based on outcomes of Successful, Failed, and Canceled. A line chart was created based on the chart to visualize the derived data. 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
