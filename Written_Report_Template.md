@@ -28,7 +28,7 @@ No challenges or difficulties were encountered in the course of this project. Po
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-One conclusion that can be drawn from this analysis is that a large number of successful projects were launched in May with similarly large amounts of success for thos launched in June and July. That range of three consecutive months in the summer has the highest success rate of any point in the year. Conversely, another conclusion is that the span of November, December, and January has the lowest rate of success based on launch date. December in particular has an almost equal number of successes and failures. Based on this data it is safe to recommend that any Kickstarters for plays are better launched in the summer, starting in May. 
+One conclusion that can be drawn from this analysis is that a large number of successful projects were launched in May with similarly large amounts of success for those launched in June and July. That range of three consecutive months in the summer has the highest success rate of any point in the year. Conversely, another conclusion is that the span of November, December, and January has the lowest rate of success based on launch date. December in particular has an almost equal number of successes and failures. Based on this data it is safe to recommend that any Kickstarters for plays are better launched in the summer, starting in May. 
 
 - What can you conclude about the Outcomes based on Goals?
 
