@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this analysis is to analyze the outcomes of Kickstarter campaigns based on their launch dates and their funding goals. The goal in doing so is to arrive at a set of optimal conditions in terms of timing and funding for the launching of a Kickstarter for a play.
+The purpose of this analysis is to evaluate the outcomes of Kickstarter campaigns based on their launch dates and their funding goals. The goal in doing so is to arrive at a set of optimal conditions in terms of timing and funding for the launching of a Kickstarter for a play.
 
 ## Analysis and Challenges
 
